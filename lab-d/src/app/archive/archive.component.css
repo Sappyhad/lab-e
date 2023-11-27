@@ -10,7 +10,7 @@
   margin-bottom: 10px;
   padding: 10px;
 
-  display: grid;
+  display: grid;gi
   grid-template-columns: 1fr 1fr;
   grid-template-areas: 'deadline actions' 'title title';
   grid-row-gap: 10px;
