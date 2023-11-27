@@ -6,6 +6,34 @@
       "deadline": "1900-01-01",
       "completed": true,
       "archived": true
+    },
+    {
+      "title": "Zadanie 1",
+      "deadline": "2023-11-18",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "Zadanie 2",
+      "deadline": "2023-11-25",
+      "completed": true,
+      "archived": true,
+      "id": 5
+    },
+    {
+      "title": "Zadanie 1",
+      "deadline": "2023-11-05",
+      "completed": false,
+      "archived": false,
+      "id": 7
+    },
+    {
+      "title": "Zadanie 2",
+      "deadline": "2023-11-22",
+      "completed": true,
+      "archived": false,
+      "id": 8
     }
   ]
 }

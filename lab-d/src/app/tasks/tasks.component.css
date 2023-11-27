@@ -33,10 +33,10 @@
 }
 
 .tasks .task {
-  background-color: white;
+  /*background-color: white;*/
   border: 1px solid black;
   margin-bottom: 10px;
-  padding: 10px;
+  padding: 10px 30px 10px 10px;
 
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -74,4 +74,8 @@
 .tasks .task .actions {
   grid-area: actions;
   text-align: right;
+}
+
+.tasks mat-card {
+  margin-bottom: 10px;
 }

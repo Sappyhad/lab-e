@@ -5,12 +5,12 @@
 }
 
 .tasks .task {
-  background-color: white;
+  /*background-color: white;*/
   border: 1px solid black;
   margin-bottom: 10px;
   padding: 10px;
 
-  display: grid;gi
+  display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-areas: 'deadline actions' 'title title';
   grid-row-gap: 10px;

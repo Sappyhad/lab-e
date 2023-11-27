@@ -1,24 +1,32 @@
-header {
-  background-color: var(--secondary-color);
-  color: var(--accent-color);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1em;
-  margin-bottom: 1em;
-}
+/*header {*/
+/*  background-color: var(--secondary-color);*/
+/*  color: var(--accent-color);*/
+/*  display: flex;*/
+/*  justify-content: space-between;*/
+/*  align-items: center;*/
+/*  padding: 0 1em;*/
+/*  margin-bottom: 1em;*/
+/*}*/
 
-header nav a {
-  padding: 0px 10px 0px 0px;
-}
+/*header nav a {*/
+/*  padding: 0px 10px 0px 0px;*/
+/*}*/
 
-header a {
-  color: var(--accent-color);
+/*header a {*/
+/*  color: var(--accent-color);*/
+/*  text-decoration: none;*/
+/*}*/
+
+mat-chip-listbox a {
   text-decoration: none;
 }
 
 .router-outlet {
   min-height: 70vh;
+}
+
+.spacer {
+  flex: 1 1 auto;
 }
 
 footer {
